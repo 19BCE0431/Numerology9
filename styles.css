@@ -33,3 +33,9 @@ button{
   height: 2rem;
   border-radius: 1rem;
 }
+
+.footer{
+  position: absolute;
+  bottom: 1rem;
+  right: 3rem;
+}
