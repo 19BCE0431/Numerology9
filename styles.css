@@ -1,0 +1,35 @@
+body{
+  background-color: #252A34;
+  color: #EEEEEE;
+  margin-top: 20%;
+  text-align: center;
+}
+
+h1{
+  color: #08D9D6;
+  font-family: 'Dancing Script', cursive;
+  margin-bottom: 1.5rem;
+}
+
+b{
+  color: #FF2E63;
+}
+
+p{
+  color: #EAEAEA;
+}
+
+input{
+  padding-top: 10rem;
+  margin: auto;
+  max-width: 20%;
+}
+
+button{
+  margin-top: 3rem;
+  color: #252A34;
+  background-color: #EAEAEA;
+  width: 7rem;
+  height: 2rem;
+  border-radius: 1rem;
+}
